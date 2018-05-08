@@ -30,9 +30,9 @@ I value 1:1’s and believe that it is your time to bring up anything. I don’t
  
 ## Nuances & Errata
 
-I am an introvert. I am very good in small group settings and tend to fade in larger environments. I also prefer Slack and IM as the first form of communication as it can handle 80% of most conversations. 
+I am an introvert. I am very good in small group settings and tend to fade in larger environments. I also prefer Slack and IM as the first form of communication as it can handle 80% of most conversations. When we talk, I will most likely ask for your opinion first and listen to you. I speak last. 
 
-When I ask you to do something that isn’t clear or poorly defined I am likely still brainstorming. Ask for more. Push me. I love structure, so I will gladly break it down for you.
+When I ask you to do something that isn’t clear or poorly defined I am likely still brainstorming. Ask for more. Push me. I love structure, so I will gladly break it down for you. .
 
 I am data driven. I would much rather discuss and think through facts vs. opinions. If you show me data, and it is in your favor, you win. If we are debating without data, I will most likely disengage until we have something of substance.
 
